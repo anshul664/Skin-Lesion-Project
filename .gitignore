@@ -1,0 +1,7 @@
+# Ignore data folder (heavy images, zip files, and large .pth models)
+data/
+
+# Ignore python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
